@@ -92,3 +92,5 @@ You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
 ## Disclaimer
 
 The developer of this application does not have any affiliation with the content providers available.
+
+This is a test version of my fork for Priyanshu
